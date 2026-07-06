@@ -1,1 +1,1 @@
-﻿Line added by feature-1 branch
+﻿This line is changed by feature-2
