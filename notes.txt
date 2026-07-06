@@ -1,1 +1,2 @@
-﻿This line is changed directly on main
+This line is changed directly on main
+This line is changed by feature-2
